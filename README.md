@@ -6,7 +6,7 @@ Edited again in master branch...
 Hello, again!!!
 Borislav Panov.
 Nai golemiq pich ama nai
-Nai gotiniq tip, po gotiniq tip.
+
 
 
 
